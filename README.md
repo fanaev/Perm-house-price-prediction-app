@@ -12,6 +12,6 @@ cd ./Perm-house-price-prediction-app.git/
 streamlit run main.py
 ```
 ```
-https://share.streamlit.io/fanaev/loc-extr/main/main.py
+https://share.streamlit.io/fanaev/perm-house-price-prediction-app/main/main.py
 ```
 
